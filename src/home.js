@@ -1,4 +1,5 @@
 import './style.css';
+import Img from './images/bowl.jpg';
 
 export default function buildHomeTab(content) {
   //   const name = document.createElement('h1');
@@ -8,7 +9,7 @@ export default function buildHomeTab(content) {
   //   name.textContent = "Ben's Bowls";
   div.classList.add('tab-content');
   subTitle.textContent = 'Best food in D.C.';
-  image.src = '../images/bowl.jpg';
+  image.src = Img;
   image.alt = 'food bowl';
   //   content.appendChild(name);
   content.appendChild(div);
