@@ -1,4 +1,4 @@
-# Library
+# Restaurant
 
 This is a solution to the "Restaurant" project in the [Odin Project](https://www.theodinproject.com/lessons/node-path-javascript-restaurant-page). The Odin project is a open source tutorial for learning web development.
 
