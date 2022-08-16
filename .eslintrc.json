@@ -13,6 +13,9 @@
     "rules": {
         "max-len": "warn",
         "no-unused-vars": "warn",
-        "no-trailing-spaces": "warn"
+        "no-trailing-spaces": "warn",
+        "comma-dangle": "warn",
+        "spaced-comment": "warn",
+        "prefer-const": "warn"
     }
 }
