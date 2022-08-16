@@ -20,7 +20,7 @@ Develop a restaurant website that uses ES6 modules to switch between tabs.
 ### Links
 
 - Solution URL: [Code on GitHub](https://github.com/Ben-Bot-22/restaurant-page)
-- Live Site URL: [GitHub pages live URL](https://ben-bot-22.github.io/books/)
+- Live Site URL: [GitHub pages live URL](https://ben-bot-22.github.io/restaurant-page/)
 
 ## My process
 
