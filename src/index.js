@@ -1,6 +1,7 @@
 import buildHomeTab from './home';
 import buildMenuTab from './menu';
 import buildContactTab from './contact';
+import './style.css';
 
 const content = document.getElementById('content');
 const homeTab = document.getElementById('home');

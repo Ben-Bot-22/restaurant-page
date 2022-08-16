@@ -1,3 +1,5 @@
+import './style.css';
+
 export default function buildContactTab(content) {
   // <h2>Phone</h2>
   // <p>555-555-5555</p>

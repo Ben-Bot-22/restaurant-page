@@ -1,3 +1,5 @@
+import './style.css';
+
 export default function buildHomeTab(content) {
   //   const name = document.createElement('h1');
   const div = document.createElement('div');

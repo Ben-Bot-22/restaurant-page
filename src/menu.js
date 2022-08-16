@@ -1,3 +1,5 @@
+import './style.css';
+
 export default function buildMenuTab(content) {
   // <p>Tofu Bowl</p>
   // <img src="../images/menu1.jpg" />
